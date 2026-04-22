@@ -1,0 +1,22 @@
+Animal Sound Match - Sound File Sources & Licenses
+====================================================
+
+Source: freeanimalsounds.org
+License: Free to download for personal use. Check https://freeanimalsounds.org for commercial use terms.
+
+  sounds/cat.mp3      https://freeanimalsounds.org/wp-content/uploads/2017/07/Katze_miaut.mp3
+  sounds/dog.mp3      https://freeanimalsounds.org/wp-content/uploads/2017/07/Bluthund_jault.mp3
+  sounds/cow.mp3      https://freeanimalsounds.org/wp-content/uploads/2017/07/Rinder_muh.mp3
+  sounds/duck.mp3     https://freeanimalsounds.org/wp-content/uploads/2017/07/Ente_quackt.mp3
+  sounds/pig.mp3      https://freeanimalsounds.org/wp-content/uploads/2017/07/schwein.mp3
+  sounds/chicken.mp3  https://freeanimalsounds.org/wp-content/uploads/2017/07/huehner.mp3
+  sounds/sheep.mp3    https://freeanimalsounds.org/wp-content/uploads/2017/07/schafe.mp3
+  sounds/horse.mp3    https://freeanimalsounds.org/wp-content/uploads/2017/07/pferd_whinnert.mp3
+  sounds/frog.mp3     https://freeanimalsounds.org/wp-content/uploads/2017/08/frogs.mp3
+  sounds/lion.mp3     https://freeanimalsounds.org/wp-content/uploads/2017/07/L%C3%B6we.mp3
+  sounds/bird.mp3     https://freeanimalsounds.org/wp-content/uploads/2017/07/spatz.mp3
+
+Source: soundbible.com
+License: Creative Commons Attribution 3.0 — Credit: Daniel Simon
+
+  sounds/mouse.mp3    https://soundbible.com/grab.php?id=2144&type=mp3
