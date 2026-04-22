@@ -2,6 +2,8 @@
 
 Listen to a real animal sound and find the animal that makes it!
 
+https://seewhatimade.github.io/animal_match.github.io/
+
 ## How to Play
 
 1. Four animal cards appear on screen.
